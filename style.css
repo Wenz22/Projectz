@@ -1,0 +1,28 @@
+
+.con{
+    background-image: url(img/wp10754971.jpg);
+    background-repeat: no-repeat;
+    height: auto;
+   
+   
+}
+ul li{
+    margin-left: 40px;
+}
+ul li a{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+   
+
+}
+.text{
+    margin-top: 100px;
+    margin-left: 40px;
+    font-size: 70px;
+}
+.sectiontwo{
+    background-color: rgba(29, 17, 17, 0.815);
+}
+body{
+    overflow-x: hidden;
+}
